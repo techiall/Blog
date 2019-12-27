@@ -13,4 +13,5 @@ techial 个人博客，文章放在 [issues](https://github.com/techial1042/Blog
 
 #### 使用效果
 
-![1555462922(1).jpg](https://i.loli.net/2019/04/17/5cb67b458d30e.jpg)
+
+![image](https://user-images.githubusercontent.com/22126304/71501581-42493e80-28a6-11ea-8509-4376ceda88e6.png)
