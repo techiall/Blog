@@ -1,17 +1,7 @@
 ## Blog
 
-techial 个人博客，文章放在 [issues](https://github.com/techial1042/Blog/issues) 👈
+[@techial](https://github.com/techiall) 个人博客，文章放在 [discussions](https://github.com/techiall/Blog/discussions) 👈
 
-欢迎在 issue 下评论交流 😀
+[issues](https://github.com/techiall/Blog/issues) 已废弃，旧文章将保留在 issues 内，新文章会在 discussions 里发布。
 
-#### 食用说明
-
-* 推荐配合 [简悦](http://ksria.com/simpread/) 这款插件，可以提升阅读体验。
-  * 高度化自定义样式
-  * 可导出 pdf, md, html 等格式
-
-
-#### 使用效果
-
-
-![image](https://user-images.githubusercontent.com/22126304/71501581-42493e80-28a6-11ea-8509-4376ceda88e6.png)
+欢迎在 discussions 下评论交流 😀
